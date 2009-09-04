@@ -1,5 +1,5 @@
 === Plugin Name ===
-Contributors: mjpalad, tidytweet
+Contributors: tidytweet
 Tags: tweets, twitter, widget, spam, filter, moderate, tidytweet
 Requires at least: 2.8
 Tested up to: 2.8.4
