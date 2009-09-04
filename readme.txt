@@ -16,7 +16,7 @@ settings and filters.
 If you haven't already created an account on TidyTweet, you'll need to go do that first.  From there, you'll need to copy the link for the "RSS Feed" and paste that into the 
 widget management area for the TidyTweet widget.
 
-For questions, comments, or feedback, please contact us via email [tidytweet@rockfishinteractive.com](mailto:tidytweet@rockfishinteractive.com) or Twitter at [@TidyTweet](http://twitter.com/tidytweet") or visit our [TidyTweet WordPress plugin feedback forum](http://feedback.tidytweet.com/pages/26564-wordpress-plugin).
+For questions, comments, or feedback, please contact us via email [tidytweet@rockfishinteractive.com](mailto:tidytweet@rockfishinteractive.com) or Twitter at [@TidyTweet](http://twitter.com/tidytweet) or visit our [TidyTweet WordPress plugin feedback forum](http://feedback.tidytweet.com/pages/26564-wordpress-plugin).
 
 == Installation ==
 
